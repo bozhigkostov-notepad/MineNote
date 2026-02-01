@@ -1,0 +1,5 @@
+{
+  "name": "MineNotes - Pixel Note Taker",
+  "description": "A Minecraft-inspired note-taking application featuring a pixel-art UI, inventory-style management, and Gemini-powered 'Enchanting' for note summarization and expansion.",
+  "requestFramePermissions": []
+}
